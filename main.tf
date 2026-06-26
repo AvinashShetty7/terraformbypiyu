@@ -3,3 +3,6 @@ resource "aws_instance" "name" {
   instance_type = var.set_instance[0]
 }
 
+data "" "name" {
+  
+}
